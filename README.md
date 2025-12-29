@@ -171,12 +171,4 @@ PORT=3000
 DEFAULT_LIMIT=7
 ```
 
-## 📝 Additional Notes
-
-### Heroku redeploy without changes
-```bash
-git commit --allow-empty -m "Trigger Heroku deploy"
-git push heroku main
-```
-
 ⭐ If this project was helpful to you, don't forget to give it a star! 
